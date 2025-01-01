@@ -1,0 +1,67 @@
+{
+  "common": {
+    "dashboard": "Dashboard",
+    "analytics": "Analytics",
+    "users": "Users",
+    "settings": "Settings",
+    "profile": "Profile",
+    "logout": "Logout",
+    "search": "Search...",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry"
+  },
+  "analytics": {
+    "overview": "Overview",
+    "monthly": "Monthly",
+    "weekly": "Weekly",
+    "daily": "Daily",
+    "metrics": {
+      "totalUsers": "Total Users",
+      "activeUsers": "Active Users",
+      "revenue": "Revenue",
+      "engagement": "Engagement"
+    }
+  },
+  "users": {
+    "title": "User Management",
+    "search": "Search users...",
+    "filters": {
+      "role": "Role",
+      "status": "Status",
+      "dateJoined": "Date Joined"
+    },
+    "actions": {
+      "enable": "Enable",
+      "disable": "Disable",
+      "delete": "Delete"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": {
+      "title": "Theme",
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System"
+    },
+    "notifications": {
+      "title": "Notifications",
+      "email": "Email Notifications",
+      "push": "Push Notifications",
+      "updates": "Product Updates"
+    },
+    "security": {
+      "title": "Security",
+      "2fa": "Two-factor Authentication",
+      "sessions": "Active Sessions",
+      "devices": "Connected Devices"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "personalInfo": "Personal Information",
+    "changePassword": "Change Password",
+    "2faSetup": "2FA Setup"
+  }
+}

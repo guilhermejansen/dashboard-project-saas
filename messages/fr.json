@@ -1,0 +1,67 @@
+{
+  "common": {
+    "dashboard": "Tableau de bord",
+    "analytics": "Analyses",
+    "users": "Utilisateurs",
+    "settings": "Paramètres",
+    "profile": "Profil",
+    "logout": "Déconnexion",
+    "search": "Rechercher...",
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "retry": "Réessayer"
+  },
+  "analytics": {
+    "overview": "Vue d'ensemble",
+    "monthly": "Mensuel",
+    "weekly": "Hebdomadaire",
+    "daily": "Quotidien",
+    "metrics": {
+      "totalUsers": "Total des utilisateurs",
+      "activeUsers": "Utilisateurs actifs",
+      "revenue": "Revenus",
+      "engagement": "Engagement"
+    }
+  },
+  "users": {
+    "title": "Gestion des utilisateurs",
+    "search": "Rechercher des utilisateurs...",
+    "filters": {
+      "role": "Rôle",
+      "status": "Statut",
+      "dateJoined": "Date d'inscription"
+    },
+    "actions": {
+      "enable": "Activer",
+      "disable": "Désactiver",
+      "delete": "Supprimer"
+    }
+  },
+  "settings": {
+    "title": "Paramètres",
+    "theme": {
+      "title": "Thème",
+      "light": "Clair",
+      "dark": "Sombre",
+      "system": "Système"
+    },
+    "notifications": {
+      "title": "Notifications",
+      "email": "Notifications par email",
+      "push": "Notifications push",
+      "updates": "Mises à jour du produit"
+    },
+    "security": {
+      "title": "Sécurité",
+      "2fa": "Authentification à deux facteurs",
+      "sessions": "Sessions actives",
+      "devices": "Appareils connectés"
+    }
+  },
+  "profile": {
+    "title": "Profil",
+    "personalInfo": "Informations personnelles",
+    "changePassword": "Changer le mot de passe",
+    "2faSetup": "Configuration 2FA"
+  }
+}

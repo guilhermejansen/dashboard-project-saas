@@ -1,0 +1,67 @@
+{
+  "common": {
+    "dashboard": "Painel",
+    "analytics": "Análises",
+    "users": "Usuários",
+    "settings": "Configurações",
+    "profile": "Perfil",
+    "logout": "Sair",
+    "search": "Pesquisar...",
+    "loading": "Carregando...",
+    "error": "Ocorreu um erro",
+    "retry": "Tentar novamente"
+  },
+  "analytics": {
+    "overview": "Visão Geral",
+    "monthly": "Mensal",
+    "weekly": "Semanal",
+    "daily": "Diário",
+    "metrics": {
+      "totalUsers": "Total de Usuários",
+      "activeUsers": "Usuários Ativos",
+      "revenue": "Receita",
+      "engagement": "Engajamento"
+    }
+  },
+  "users": {
+    "title": "Gestão de Usuários",
+    "search": "Pesquisar usuários...",
+    "filters": {
+      "role": "Função",
+      "status": "Status",
+      "dateJoined": "Data de Entrada"
+    },
+    "actions": {
+      "enable": "Ativar",
+      "disable": "Desativar",
+      "delete": "Excluir"
+    }
+  },
+  "settings": {
+    "title": "Configurações",
+    "theme": {
+      "title": "Tema",
+      "light": "Claro",
+      "dark": "Escuro",
+      "system": "Sistema"
+    },
+    "notifications": {
+      "title": "Notificações",
+      "email": "Notificações por Email",
+      "push": "Notificações Push",
+      "updates": "Atualizações do Produto"
+    },
+    "security": {
+      "title": "Segurança",
+      "2fa": "Autenticação de Dois Fatores",
+      "sessions": "Sessões Ativas",
+      "devices": "Dispositivos Conectados"
+    }
+  },
+  "profile": {
+    "title": "Perfil",
+    "personalInfo": "Informações Pessoais",
+    "changePassword": "Alterar Senha",
+    "2faSetup": "Configurar 2FA"
+  }
+}
