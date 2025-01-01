@@ -1,4 +1,3 @@
-```markdown
 # Security Configuration Guide
 
 ## Environment Setup
@@ -70,4 +69,3 @@ SMTP_FROM=noreply@example.com
 5. Regular backups
 6. User input validation
 7. Secure password policies
-```
